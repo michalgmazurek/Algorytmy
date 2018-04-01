@@ -22,7 +22,7 @@ const findLongestIntegerGap = (number) => {
       currentGap = 0;
     }
   }
-  console.log(longestGap);
+  console.log(longestGap + ' => The longest gap');
 }
 
 findLongestIntegerGap(9132);
