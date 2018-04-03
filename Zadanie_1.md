@@ -1,5 +1,6 @@
 [https://app.codility.com/programmers/lessons/1-iterations/binary_gap/](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
 
+[https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
 
 *Notatki
 
