@@ -11,3 +11,5 @@ function solution(A) {
 }
 
 console.log(solution([1,2,3,4,5,6,7,6,5,4,3,2,1]));
+
+// const solution = (A) => (A).reduce((a, b) => a ^ b); - 100%
